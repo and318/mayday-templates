@@ -1,0 +1,113 @@
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto; }
+
+.form-signin .form-signin-heading, .form-signin .checkbox {
+  margin-bottom: 10px; }
+
+.form-signin .checkbox {
+  font-weight: normal; }
+
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.form-signin .form-control:focus {
+  z-index: 2; }
+
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0; }
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
+
+.account-wall {
+  margin-top: 20px;
+  padding: 0px 0px 20px 0px;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); }
+
+.login-title {
+  color: #555;
+  font-size: 18px;
+  font-weight: 400;
+  display: block; }
+
+.recovery {
+  margin-top: 10px;
+  text-align: center; }
+
+.btn-mayday {
+  color: #ffffff;
+  background-color: #6A7D88;
+  border-bottom: 2px solid #03F500;
+  border-radius: 0;
+  text-transform: uppercase; }
+
+.btn-mayday:hover,
+.btn-mayday:focus,
+.btn-mayday:active,
+.btn-mayday.active,
+.open .dropdown-toggle.btn-mayday {
+  color: #ffffff;
+  background-color: #4A5C66;
+  border-bottom: 2px solid #03F500; }
+
+.btn-mayday:active,
+.btn-mayday.active,
+.open .dropdown-toggle.btn-mayday {
+  background-image: none; }
+
+.btn-mayday.disabled,
+.btn-mayday[disabled],
+fieldset[disabled] .btn-mayday,
+.btn-mayday.disabled:hover,
+.btn-mayday[disabled]:hover,
+fieldset[disabled] .btn-mayday:hover,
+.btn-mayday.disabled:focus,
+.btn-mayday[disabled]:focus,
+fieldset[disabled] .btn-mayday:focus,
+.btn-mayday.disabled:active,
+.btn-mayday[disabled]:active,
+fieldset[disabled] .btn-mayday:active,
+.btn-mayday.disabled.active,
+.btn-mayday[disabled].active,
+fieldset[disabled] .btn-mayday.active {
+  background-color: #6A7D88;
+  border-bottom: 2px solid #03F500; }
+
+.btn-mayday .badge {
+  color: #6A7D88;
+  background-color: #ffffff; }
+
+.welcome {
+  text-align: center;
+  background: #6A7D88;
+  padding: 15px 0;
+  color: white; }
+
+.custom-nav {
+  background: #6A7D88;
+  border: none;
+  border-radius: 0; }
+
+.custom-nav .navbar-nav > li > a {
+  color: white; }
+
+.navbar-nav {
+  margin-top: 10px; }
+
+.logo {
+  height: 90px; }
